@@ -6,3 +6,5 @@ dist
 *.local
 playground/
 .playgroundcache
+.pnpm-store
+.pnpm
